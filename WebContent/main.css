@@ -1,0 +1,15 @@
+input{
+	text-align:center;
+}
+body{
+	
+	font-size: 20px;
+}
+body input{
+	text-align:center;
+	font-size: 15px;
+}
+td{
+	padding: 5px;
+	text-align:center;
+}
